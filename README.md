@@ -1,1 +1,1 @@
-# datasciencecoursera
+# Exploratory analysis assignment
